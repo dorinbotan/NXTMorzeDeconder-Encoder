@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+// Find the brightest point in the room and move there
 public class SecondStep
 {
    private ArrayList<Integer> array;

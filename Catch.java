@@ -55,6 +55,7 @@ public class Catch
       return array;
    }
    
+   // Message starts with "HELLO" and ends with "GOODBYE"
    private boolean gotMessage()
    {
       if (message.indexOf("HELLO") != -1 && message.indexOf("GOODBYE") != -1)

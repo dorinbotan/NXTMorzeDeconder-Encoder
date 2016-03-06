@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+// Move to a point in the room indicated by the light signals
 public class FirstStep
 {
    private ArrayList<Integer> array = new ArrayList<Integer>();
